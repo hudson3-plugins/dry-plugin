@@ -1,0 +1,9 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core">
+
+  <dt>$${DRY_RESULT}</dt>
+  <dd>
+    Expands to the build result of the duplicate code scanner plug-in.
+  </dd>
+
+</j:jelly>
